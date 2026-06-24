@@ -9,6 +9,12 @@ AI & Data Science Graduate from MITS Gwalior.
 - Excel
 - Machine Learning
 
+💻 Currently Learning
+- Advanced SQL
+- Data Engineering Fundamentals
+- Power BI
+- Machine Learning
+
  🔗 Connect with me
 LinkedIn: https://www.linkedin.com/in/tanmaytejra 
 Email: tanmaytejra22@gmail.com
