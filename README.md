@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tanmay Tejra 👋
+
+AI & Data Science Graduate from MITS Gwalior.
+
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Machine Learning
+
+ 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/tanmaytejra 
+Email: tanmaytejra22@gmail.com
 
 <!--
 **tejratanmay07/tejratanmay07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
